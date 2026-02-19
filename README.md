@@ -1,8 +1,5 @@
 <img width="1536" height="1024" alt="downloas" src="https://github.com/user-attachments/assets/6ca784f3-d260-4d61-b3f1-09fcd9c666a2" />
 
-<img width="1536" height="1024" alt="downloas" src="https://github.com/user-attachments/assets/4a81ba34-1f7c-47e3-9443-dbcde987ebd5" />
-
-
 ![RGB Line Medium](https://github.com/user-attachments/assets/d271ac14-4268-4da8-9c7c-1af9b1c08574)
 
 <div align="center">
